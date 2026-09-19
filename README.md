@@ -1,2 +1,2 @@
 # nsduh-2024-analysis
-A small project utilizing the dataset from the 2024 NSDUH. 
+This is a simple portfolio project that analyzes mental health outcomes for Latino/a Americans compared to their peers across other racial and ethnic demographics.
